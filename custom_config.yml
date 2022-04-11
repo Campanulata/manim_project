@@ -13,7 +13,7 @@ universal_import_line: "from manim_imports_ext import *"
 #   template_file: "ctex_template.tex"
 #   intermediate_filetype: "xdv"
 style:
-  font: "CMU Serif"
+  # font: "CMU Serif"
   background_color: "#000000"
 camera_qualities:
   high:
